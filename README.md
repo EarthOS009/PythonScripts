@@ -15,7 +15,7 @@ Before running the project, make sure you have Python installed on your machine.
 Follow these simple steps to get your local dashboard up and running instantly:
 
 1. **Step 1: Clone or Download**
-Download the files from this repository to your local machine.
+Download the script Trending_Dashboard_Youtube.py from this repository to your local machine.
 2. **Step 2: Execute the Code**
 Open your terminal, navigate to the project folder, and run the main Python script (e.g., `python main.py`).
 3. **Step 3: View the Dashboard**
