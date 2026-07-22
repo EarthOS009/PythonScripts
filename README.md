@@ -8,6 +8,7 @@ Before running the project, make sure you have Python installed on your machine.
 
  pip install pandas pytrends requests
 
+ Also create a  YouTube Data API v3  API key  - https://developers.google.com/youtube/v3/getting-started
  
 ## Quick Start
 
