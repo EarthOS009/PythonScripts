@@ -1,5 +1,9 @@
 # Live YouTube Trends Tracker 🐍
 
+
+<img width="1787" height="956" alt="image" src="https://github.com/user-attachments/assets/7a04d02c-b5d7-4813-aff5-c703f985e409" />
+
+
 Track live trending YouTube videos in your own way using just Python and a standard browser! This lightweight project fetches real-time data and launches a local dashboard—no heavy software required.
 
 ## Prerequisites
